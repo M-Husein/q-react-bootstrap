@@ -1,2 +1,2 @@
-# q-ui-reactbootstrap
-React component Bootstrap 4
+# q-react-bootstrap
+React component Bootstrap 4 style
